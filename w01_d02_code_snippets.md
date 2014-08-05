@@ -14,3 +14,10 @@
 |8.| `git pull upstream master`| download files from upstream| 
 |9.| `git remove -v`| to see nnwhich remote servers you have configured. It lists the shortnames of each remote handle you’ve specified| 
 |10.| `subl .`| to open your file in sublime| 
+
+2 images 
+
+![alt text](http://i.imgur.com/fcDkn98.png)
+
+![alt text](http://i.imgur.com/WtHpPtq.png)
+
