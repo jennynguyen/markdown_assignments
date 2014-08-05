@@ -1,6 +1,6 @@
 #**10 command I have trouble with today**
 |Number|Code| Discription|
-|:---------|:------------||:-----------|
+|:---------:|:------------||:-----------|
 |1. |`/Users/JenniferNNguyen`| absolute path. always starts with / |
 |2. |`cd Users` |relative path. doesn't start with a /. change directory to a file relates to where you're currently at|
 |3. |`rmdir Music` | remove Music directory |
